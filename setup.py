@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Dorin Musteata",
     author_email="dorin.musteata@ebs-integrator.com",
-    description="static-pages-client is a package that helps working with Static Pages API easier.",
+    description="Static pages client is a package that helps working with Static Pages API easier.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/ebs-integrator/static-pages-client",
