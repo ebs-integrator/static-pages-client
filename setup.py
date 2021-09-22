@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="static-pages-client",
-    version="0.0.1",
+    version="1.0.0",
     author="Dorin Musteata",
     author_email="dorin.musteata@ebs-integrator.com",
     description="Static pages client is a package that helps working with Static Pages API easier.",
