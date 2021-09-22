@@ -2,6 +2,14 @@
 
 API Repository for Static Pages Client
 
+## 📝 Installation
+
+Install using your favourite package manager
+
+```bash
+pip install static_pages_client
+```
+
 ## 📦️ Methods
 
 | Name                              | Type      | Description                                       |
